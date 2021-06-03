@@ -1,6 +1,5 @@
 {
   "name": "janj-proyect",
-  "homepage": "https://JorgeOrobio.github.io/deploy-janj-web",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
