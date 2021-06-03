@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/deploy-janj-web/static/css/main.debf34e2.chunk.css",
+    "main.js": "/deploy-janj-web/static/js/main.bfa1a597.chunk.js",
+    "main.js.map": "/deploy-janj-web/static/js/main.bfa1a597.chunk.js.map",
+    "runtime-main.js": "/deploy-janj-web/static/js/runtime-main.0474c00c.js",
+    "runtime-main.js.map": "/deploy-janj-web/static/js/runtime-main.0474c00c.js.map",
+    "static/js/2.06916d06.chunk.js": "/deploy-janj-web/static/js/2.06916d06.chunk.js",
+    "static/js/2.06916d06.chunk.js.map": "/deploy-janj-web/static/js/2.06916d06.chunk.js.map",
+    "index.html": "/deploy-janj-web/index.html",
+    "static/css/main.debf34e2.chunk.css.map": "/deploy-janj-web/static/css/main.debf34e2.chunk.css.map",
+    "static/js/2.06916d06.chunk.js.LICENSE.txt": "/deploy-janj-web/static/js/2.06916d06.chunk.js.LICENSE.txt",
+    "static/media/actuacion.5aa64147.png": "/deploy-janj-web/static/media/actuacion.5aa64147.png",
+    "static/media/boxicons.min.css": "/deploy-janj-web/static/media/boxicons.cbd149c5.ttf",
+    "static/media/broker.089c7cce.png": "/deploy-janj-web/static/media/broker.089c7cce.png",
+    "static/media/bursatil.b4f0a4bc.png": "/deploy-janj-web/static/media/bursatil.b4f0a4bc.png",
+    "static/media/style.css": "/deploy-janj-web/static/media/call-to-action-bg.363ec4ac.jpg",
+    "static/media/cambio-de-divisas.dc3d8c02.png": "/deploy-janj-web/static/media/cambio-de-divisas.dc3d8c02.png",
+    "static/media/crecimiento-del-dinero.66ae86e6.png": "/deploy-janj-web/static/media/crecimiento-del-dinero.66ae86e6.png",
+    "static/media/depreciacion.ce9892f0.png": "/deploy-janj-web/static/media/depreciacion.ce9892f0.png",
+    "static/media/divisas.4bb44f9f.png": "/deploy-janj-web/static/media/divisas.4bb44f9f.png",
+    "static/media/font-awesome.min.css": "/deploy-janj-web/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/inflacion.4c9f5a3b.png": "/deploy-janj-web/static/media/inflacion.4c9f5a3b.png",
+    "static/media/kpi.47598e88.png": "/deploy-janj-web/static/media/kpi.47598e88.png",
+    "static/media/mercado.3d5dbd98.png": "/deploy-janj-web/static/media/mercado.3d5dbd98.png",
+    "static/media/operarCorto.dfa41e82.png": "/deploy-janj-web/static/media/operarCorto.dfa41e82.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0474c00c.js",
+    "static/js/2.06916d06.chunk.js",
+    "static/css/main.debf34e2.chunk.css",
+    "static/js/main.bfa1a597.chunk.js"
+  ]
+}
